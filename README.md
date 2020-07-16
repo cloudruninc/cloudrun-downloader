@@ -24,7 +24,7 @@ Write to us at accounts@cloudrun.co to obtain your user ID and API token.
 
 ```
 cloudrun-downloader -h
-usage: cloudrun-downloader [-h] [-n HOW_MANY] [forecast]
+usage: cloudrun-downloader [-h] [-n HOW_MANY] [-nc] [-g] [forecast]
 
 cloudrun-downloader - Download your Cloudrun output files
 
