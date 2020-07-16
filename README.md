@@ -8,7 +8,9 @@ CLI tool to query Cloudrun forecasts and download output files.
 
 ```
 python3 -m venv venv
-pip install -U https://github.com/cloudruninc/cloudrun-downloader
+source venv/bin/activate
+pip install -U pip
+pip install -U git+https://github.com/cloudruninc/cloudrun-downloader
 ```
 
 ### Set environment variables
