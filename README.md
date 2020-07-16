@@ -35,6 +35,8 @@ optional arguments:
   -h, --help            show this help message and exit
   -n HOW_MANY, --how-many HOW_MANY
                         How many forecasts to list
+  -nc, --netcdf-only    Download NetCDF files only
+  -g, --grib-only       Download GRIB files only
 ```
 
 ### List 10 most recent forecasts
